@@ -1,5 +1,5 @@
 # equipartition project with NBODY6
-codes used in my master's thesis
+codes used in my master's thesis<br/>
 (Title: Kinematic Signature of Core Collapse in N-Body Simulations of Globular Clusters)
 
 ## Contributions
